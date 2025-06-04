@@ -4,35 +4,35 @@
 
 ---
 
-## 🛠️ **Funcionalidades**
+## **Funcionalidades**
 
 ### **✨ O que você pode fazer:**
 
 - **Cadastro e Login de Usuários**:
   - Autenticação **JWT** para garantir **segurança** na criação de contas e login de usuários.
   
-- **🚀 Dashboard Pessoal**:
+- **Dashboard Pessoal**:
   - Uma visão **intuitiva** e clara das suas tarefas, tempo gasto e progresso de metas.
   
-- **📝 Gestão de Tarefas**:
+- **Gestão de Tarefas**:
   - Crie, edite e organize suas tarefas com **datas de vencimento** e **categorias** personalizáveis.
   
-- **⏱️ Rastreamento de Tempo em Tempo Real**:
+- **⏱Rastreamento de Tempo em Tempo Real**:
   - Acompanhe seu tempo com um **timer** ao vivo que te ajuda a se concentrar na tarefa.
   
-- **📊 Relatórios Detalhados**:
+- **Relatórios Detalhados**:
   - Geração de relatórios semanais e mensais sobre sua produtividade, com **gráficos** e **análises**.
 
-- **🎯 Metas de Produtividade**:
+- **Metas de Produtividade**:
   - Defina **metas** de tempo e produtividade para desafiar a si mesmo.
   
-- **📅 Integração com Calendário**:
+- **Integração com Calendário**:
   - **Sincronize** seus compromissos do **Google Calendar** ou **Outlook** diretamente no TimeSync.
   
-- **🍅 Modo Pomodoro**:
+- **Modo Pomodoro**:
   - Trabalhe com intervalos de tempo de 25 minutos (Pomodoro) para **aumentar a concentração**.
   
-- **🔔 Notificações**:
+- **Notificações**:
   - Lembretes e alertas de **tarefas e metas** diretamente no seu dispositivo.
 
 ---
