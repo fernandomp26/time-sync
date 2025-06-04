@@ -44,5 +44,5 @@
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/time-sync.git
+git clone https://github.com/fernandomp26/time-sync.git
 cd time-sync
